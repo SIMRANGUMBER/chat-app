@@ -17,28 +17,34 @@ THE CHATNEST is a Full Stack Chatting App that utilizes Socket.io for real-time 
 - Data storage and retrieval with MongoDB.
 
 ##Authentication
+![Authentication2](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/ff3b6dbb-252e-4fb0-910b-90db12261fad)
+![Authentication1](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/fa088207-aad5-4d36-a232-ca6560f6af9a)
 
-![Screenshot 2024-06-10 165421](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/362415c1-ccac-4dd9-8c15-cc2fde5a1527)
-![Screenshot 2024-06-10 164943](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/c6e1f9c1-ecea-4a3e-8b68-972bf6870eab)
 
 ##Real Time Chatting ,One to One chat
-![Screenshot 2024-06-10 164921](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/16f9f350-fc12-4619-ba81-1660dbd16713)
+![Real Time Chat and One to One Chat](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/4ee1edf9-528d-4c81-bc3d-5934741bcbb6)
+
 
 ##Search Users
-![Screenshot 2024-06-10 165113](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/45e38062-6129-4a21-9c8f-845732f7f6fd)
+![SearchUser](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/746a102e-c8bf-4c85-9811-661a09a25347)
+
 
 ##Create Group Chats
-![Screenshot 2024-06-10 165741](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/c44013c0-9a7d-4639-8c20-1684f6d91e22)
+![Create Group Chat](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/3e8aa7df-4c44-4b50-b505-870636127fd1)
+
 
 ##Notifications
-![Screenshot 2024-06-10 165914](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/e9be8c40-fd7e-4017-b841-9e3b76d117e2)
+![Notification](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/e7c8f8f3-9997-44f2-a246-46411506937a)
+
 
 
 ##Add or Remove users from group
-![Screenshot 2024-06-10 165143](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/42aa4c7f-f29f-4982-b4d9-feeadbcc3ce7)
+![Add or Remove User](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/66e62877-e0de-4472-abf7-54c6a6a68448)
+
 
 ##View Other user Profile
-![Screenshot 2024-06-10 170112](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/71049261-f64e-4471-bcf6-95d04d0c6b2b)
+![Profile View](https://github.com/SIMRANGUMBER/chat-app_THE-CHATNEST/assets/117030880/7e282fe0-2a4e-4b9d-a200-b8ca5caae6b0)
+
 
 
 ## MADE BY
